@@ -1,6 +1,6 @@
 # laravel-docker-compose
 
-Alur kerja Docker Compose yang cukup sederhana yang menyiapkan jaringan LEMP container untuk pengembangan Laravel lokal.
+Alur kerja Docker Compose yang cukup sederhana yang menyiapkan jaringan LEMP (Linux, Nginx, Mysql, PHP) container untuk pengembangan Laravel lokal.
 
 
 ## Penggunaan
