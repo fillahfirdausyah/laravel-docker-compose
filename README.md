@@ -21,10 +21,16 @@ Untuk mengakses NPM pakai command berikut:
 
 - `docker-compose run --rm npm (command npm)`
 
-Untuk mengakses artisan file pakai command berikut:
+Untuk mengakses Container php pakai command berikut:
 
 - `docker exec -it php /bin/bash`
 
-setelah masuk ke container php, jalankan command berikut:
+Untuk mengakses Composer pakai command berikut:
 
+-  masuk ke Container php
+- `composer (command composer)`
+
+Untuk mengakses Artisan pakai command berikut:
+
+-  masuk ke Container php
 - `php artisan (command artisan)`
